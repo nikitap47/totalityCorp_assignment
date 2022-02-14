@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/totalityCorp_assignment/static/css/main.b76d3b9e.css",
+    "main.js": "/totalityCorp_assignment/static/js/main.93ef2aa9.js",
+    "static/js/787.22de2f81.chunk.js": "/totalityCorp_assignment/static/js/787.22de2f81.chunk.js",
+    "static/media/mainpage.png": "/totalityCorp_assignment/static/media/mainpage.00029e773ea93bb1aefc.png",
+    "static/media/pixelImage.png": "/totalityCorp_assignment/static/media/pixelImage.fa19f5c1ba72204b24fe.png",
+    "static/media/astheticImage.png": "/totalityCorp_assignment/static/media/astheticImage.88dbe0a479fa1b4c3974.png",
+    "static/media/friImage.png": "/totalityCorp_assignment/static/media/friImage.73d5b3ecfcd8b2e7637e.png",
+    "static/media/secondHalfImage.png": "/totalityCorp_assignment/static/media/secondHalfImage.f32daae88c24d1d66cc8.png",
+    "static/media/friyayWiz.png": "/totalityCorp_assignment/static/media/friyayWiz.cd4dffea10e810bcab65.png",
+    "static/media/harryChinati.png": "/totalityCorp_assignment/static/media/harryChinati.8b3d9b57b349d1ef6331.png",
+    "static/media/pixelWizards.png": "/totalityCorp_assignment/static/media/pixelWizards.ce336aa4a10de5e5c155.png",
+    "static/media/kootings.png": "/totalityCorp_assignment/static/media/kootings.159976216ced15ca88dc.png",
+    "static/media/shadow4.png": "/totalityCorp_assignment/static/media/shadow4.5f00175ebbc8742b565d.png",
+    "static/media/shadow1.png": "/totalityCorp_assignment/static/media/shadow1.6713223b515d501a92ac.png",
+    "static/media/shadow3.png": "/totalityCorp_assignment/static/media/shadow3.e9c334945b23b526c4ac.png",
+    "static/media/allNft.png": "/totalityCorp_assignment/static/media/allNft.15b5020a5fbfc174efdd.png",
+    "static/media/visual.png": "/totalityCorp_assignment/static/media/visual.cea548ebfe2c6ed0eb5f.png",
+    "static/media/trading.png": "/totalityCorp_assignment/static/media/trading.f8568290dcb19910b231.png",
+    "static/media/art.png": "/totalityCorp_assignment/static/media/art.4ef948b43beb9f80ecb7.png",
+    "static/media/collectibles.png": "/totalityCorp_assignment/static/media/collectibles.042a2449516ec2567066.png",
+    "static/media/music.png": "/totalityCorp_assignment/static/media/music.2d7de4c0b49b20b22e95.png",
+    "static/media/sports.png": "/totalityCorp_assignment/static/media/sports.9131b0b13f3060605a2b.png",
+    "static/media/astheticProfilePic.png": "/totalityCorp_assignment/static/media/astheticProfilePic.a5ae2e1318084489220b.png",
+    "static/media/pixelProfilePic.png": "/totalityCorp_assignment/static/media/pixelProfilePic.9c6edfe26bcd231a2b05.png",
+    "static/media/shadow2.png": "/totalityCorp_assignment/static/media/shadow2.f95cc37f6c7c4a1b82d3.png",
+    "static/media/friProfilePic.png": "/totalityCorp_assignment/static/media/friProfilePic.0e8cacb6a7c6922b209c.png",
+    "index.html": "/totalityCorp_assignment/index.html",
+    "main.b76d3b9e.css.map": "/totalityCorp_assignment/static/css/main.b76d3b9e.css.map",
+    "main.93ef2aa9.js.map": "/totalityCorp_assignment/static/js/main.93ef2aa9.js.map",
+    "787.22de2f81.chunk.js.map": "/totalityCorp_assignment/static/js/787.22de2f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76d3b9e.css",
+    "static/js/main.93ef2aa9.js"
+  ]
+}
